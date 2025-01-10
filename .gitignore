@@ -5,3 +5,10 @@ __pycache__
 
 .mypy_cache
 .ruff_cache
+bin
+csv
+config.csv
+config_tmp.csv
+values_singlepage.csv
+values_singlepage_tmp.csv
+.DS_Store
